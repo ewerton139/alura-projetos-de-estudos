@@ -1,0 +1,10 @@
+{
+    "nome": "Ewerton",
+    "idade": 28,
+    "profissao": "Dev Trainee",
+    "dinheiro": "Não tem",
+    "fezEmprestimo": [
+        true,
+        "Que burro dá zero para ele"
+    ]
+}
